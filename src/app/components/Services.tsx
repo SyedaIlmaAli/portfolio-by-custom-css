@@ -1,8 +1,6 @@
 import React from "react";
 import "../style/services.css";
-import { GiSoundOn } from "react-icons/gi";
 import { FaFigma, FaLaptopCode } from "react-icons/fa";
-import { IoGameControllerOutline } from "react-icons/io5";
 
 import { MdOutlineNoPhotography } from "react-icons/md";
 import { CiMobile4 } from "react-icons/ci";
